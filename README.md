@@ -7,8 +7,7 @@ Jupyter Notebooks are open-source tools researchers commonly use to develop work
 
 # Background
 
-
-# Problem
+It is [not uncommon](https://jupyter4edu.github.io/jupyter-edu-book/case-studies.html#jupyter-notebooks-in-support-of-scaling-for-large-enrollments) for researchers to have been introduced to Python for scientific computing through Jupyter Notebooks.
 
 # Solution
 
