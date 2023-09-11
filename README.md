@@ -7,9 +7,29 @@ Jupyter Notebooks are open-source tools researchers commonly use to develop work
 
 # Background
 
-It is [not uncommon](https://jupyter4edu.github.io/jupyter-edu-book/case-studies.html#jupyter-notebooks-in-support-of-scaling-for-large-enrollments) for researchers to have been introduced to Python for scientific computing through Jupyter Notebooks.
+I have said all of this badly. Please forgive the roughness of this draft.
+
+It is [not uncommon](https://jupyter4edu.github.io/jupyter-edu-book/case-studies.html#jupyter-notebooks-in-support-of-scaling-for-large-enrollments) for researchers to have been introduced to Python and other programming languages for scientific computing through Jupyter Notebooks. Introductions like these often do not involve a systematic approach to learning coding practices or a theoretical background in computer science that most career professionals in software engineering have. As researchers continue to use computational tools like the ever popular Jupyter Notebook, moving from this functional but limited background in coding is a difficult and time consuming task that may not be feasible for researchers to do while working against deadlines and handling administrative and logistical tasks (trying to communicate that things like grants need to be applied to, research deadlines are real, even if they are somewhat soft sometimes, etc...) that remain constant in a research career. For this reason, researchers often continue to use the same tools in the same ways as they learned near the beginning of their careers.
+
+Software engineers who work with researchers often have a background working with a large assortment of software creation tools each geared towards different development workflows. When software engineers work with researchers, it is often to assist researchers with a wide variety of relatively limited workflows and backgrounds in scientific computing. Turning an existing and developing research workflow into a software product (I don't like the term product, but I'm coming up blank here for better words) may involve technologies that researchers are unfamiliar with, such as version control systems (see Git), or software development products, like traditional IDEs, that researchers do not use. For this reason, software engineers and researchers can struggle with a disconnect in technical backgrounds that hampers the development of research software.
 
 # Solution
+
+Outline:
+Talk about bringing researchs and software engineers together.
+
+For researchers, JupyterIDE:
+- introduces JupyterLab as a friendly alternative to Jupyter Notebook
+  - JupyterLab has the ability to view multiple files at the same time, search the file tree, use a console for a kernel, and many other things useful for researchers not available in the Jupyter Notebook interface
+- gently introduces better coding practices for a research environment
+
+For software engineers, JupyterIDE:
+- introduces JupyterLab as an extensible development environment with several quality of life features for software development highlighted and community extensions given tutorials
+  - Git extension and LSP are especially good examples of what is available.
+- introduces the iterative programming approach as uniquely suited for creating documentation and working with researchers
+
+Draft:
+Bringing researchers and software engineers closer together in terms of their toolsets, coding practices, and paradigms will help facilitate communication and development. JupyterIDE can help with this in a number of ways. For researchers, it introduces JupyterLab as an alternative to Jupyter Notebook. While the two programs share a similar layout and JupyterLab maintains an interface optimized for notebook development, JupyterLab also has several features that help with productivity. JupyterLab users can interact with 
 
 # Acknowledgments
 
