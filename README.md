@@ -26,10 +26,15 @@ For researchers, JupyterIDE:
 For software engineers, JupyterIDE:
 - introduces JupyterLab as an extensible development environment with several quality of life features for software development highlighted and community extensions given tutorials
   - Git extension and LSP are especially good examples of what is available.
-- introduces the iterative programming approach as uniquely suited for creating documentation and working with researchers
+- introduces the literate programming approach as uniquely suited for creating documentation and working with researchers
 
 Draft:
-Bringing researchers and software engineers closer together in terms of their toolsets, coding practices, and paradigms will help facilitate communication and development. JupyterIDE can help with this in a number of ways. For researchers, it introduces JupyterLab as an alternative to Jupyter Notebook. While the two programs share a similar layout and JupyterLab maintains an interface optimized for notebook development, JupyterLab also has several features that help with productivity. JupyterLab users can interact with 
+Bringing researchers and software engineers closer together in terms of their toolsets, coding practices, and paradigms will help facilitate communication and development. JupyterIDE can help with this in a number of ways. For researchers, it introduces JupyterLab as an alternative to Jupyter Notebook. While the two programs share a similar layout and JupyterLab maintains an interface optimized for notebook development, JupyterLab also has several features that help with productivity such as the ability to view a notebook and a dataframe simultaneously in one window. To take advantage of this, JupyterIDE includes a short, accessible tutorial on literate programming for researchers using JupyterLab that helps researchers build documentation for exploratory data analysis and avoid common problems associated with results reproducibilitiy in notebooks. In addition, there is a tutorial for the Git extension that helps researchers learn about the value of version control, especially in collaborative research environments, and how to use it easily with JupyterLab.
+
+Extension:
+LSP
+Vim
+Git
 
 # Acknowledgments
 
