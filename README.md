@@ -31,12 +31,7 @@ For software engineers, JupyterIDE:
 Draft:
 Bringing researchers and software engineers closer together in terms of their toolsets, coding practices, and paradigms will help facilitate communication and development. JupyterIDE can help with this in a number of ways. For researchers, it introduces JupyterLab as an alternative to Jupyter Notebook. While the two programs share a similar layout and JupyterLab maintains an interface optimized for notebook development, JupyterLab also has several features that help with productivity such as the ability to view a notebook and a dataframe simultaneously in one window. To take advantage of this, JupyterIDE includes a short, accessible tutorial on literate programming for researchers using JupyterLab that helps researchers build documentation for exploratory data analysis and avoid common problems associated with results reproducibilitiy in notebooks. In addition, there is a tutorial for the Git extension that helps researchers learn about the value of version control, especially in collaborative research environments, and how to use it easily with JupyterLab.
 
-
-
-Extension:
-LSP
-Vim
-Git
+There are several development tools commonly associated with IDEs that software engineers may be familiar with or would benefit from using. JupyterIDE can help software engineers by introducing useful JupyterLab extensions (in a pre-made Conda environment) for software engineering and making them easy to learn or review with tutorials for compatible versions of the extensions. The language server processing extension includes code linting and code autocompletion, among many other features, which are introduced in a tutorial from JupyterIDE. The Vim extension brings Vim keybindings to JupyterLab and extends them to interacting with code cells. These new features are also introduced with a tutorial from JupyterIDE. Other, less transformative extensions are also included with tutorials. This allows for software engineers to quickly learn the JupyterLab development environment with useful extensions.
 
 # Acknowledgments
 
